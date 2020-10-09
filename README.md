@@ -1,5 +1,5 @@
 # DATA-WAREHOUSING-ASSIGNMENT
-In this assignment, you will work on datasets that are related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
+In this project, you will work on datasets that are related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
 The classification goal is to predict if the client will subscribe a term deposit. The bank did marketing campaigns based on phone calls. 
 Often, more than one contact to the same client was required, in order to assess if bank term deposit would be ('yes') or not ('no') subscribed. 
 This assignment is an individual assignment.
